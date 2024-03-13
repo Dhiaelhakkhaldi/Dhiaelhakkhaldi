@@ -1,8 +1,8 @@
 [![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
 <h1 align="center">Hi 👋, I'm Dhia</h1>
 <h3 align="center">A passionate Data Analyst from Algeria</h3>
-<img align="center" alt="Coding" width="200" 
-        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ1dDNxdTR1eHZpYmp3cnVqdWV4bTYzcXFjNTRxbXRmb3ltYW0wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
+<div style="text-align: center;">
+    <img style="display: block; margin: 0 auto;" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ1dDNxdTR1eHZpYmp3cnVqdWV4bTYzcXFjNTRxbXRmb3ltYW0wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
 </div>
 
 
