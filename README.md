@@ -14,6 +14,8 @@
 - 📝 I write articles on [https://mybdhia.blogspot.com/](https://mybdhia.blogspot.com/)
 
 - 📫 How to reach me **dhiaelhakhaldi@gmail.com**
+  
+- 📊 You can find my Tableau visualizations here [https://public.tableau.com/app/profile/dhia.khaldi/vizzes]
 
 - 📄 Know about my experiences [https://stdnisantasiedu-my.sharepoint.com/:w:/g/personal/20214040240_std_nisantasi_edu_tr/EZZuc5s6QupBlP8Cd5sY4_oBxCG2NsZWCpMQdjvzHN7GDw?e=yVGZ5f](https://stdnisantasiedu-my.sharepoint.com/:w:/g/personal/20214040240_std_nisantasi_edu_tr/EZZuc5s6QupBlP8Cd5sY4_oBxCG2NsZWCpMQdjvzHN7GDw?e=yVGZ5f)
 
