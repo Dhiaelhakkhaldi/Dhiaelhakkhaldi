@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhia</h1>
 <h3 align="center">A passionate Data Analyst from Algeria</h3>
 <div style="text-align: center;">
-    <img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ1dDNxdTR1eHZpYmp3cnVqdWV4bTYzcXFjNTRxbXRmb3ltYW0wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
+    <img align="center" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ1dDNxdTR1eHZpYmp3cnVqdWV4bTYzcXFjNTRxbXRmb3ltYW0wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
 </div>
 
 
